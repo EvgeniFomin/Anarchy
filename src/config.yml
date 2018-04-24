@@ -1,0 +1,19 @@
+test: "1"
+mainInv:
+  title: 'Управление регионом (%level)'
+  members: '&aУчастники (%members)'
+  upgrade: '&6Расширить регион'
+  close: '&cЗакрыть'
+membersInv:
+  title: 'Управление участниками'
+  empty: '&cПусто'
+  backward: 'Пред. страница'
+  forward: 'След. страница'
+memberInv:
+  kick: '&cВыгнать игрока'
+  back: '&fНазад'
+upgradesInv:
+  title: 'Расширение региона'
+  upgrade: '&aУлучшить'
+  var1: 'Вариант 1 -->'
+  var2: 'Вариант 2 -->'

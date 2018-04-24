@@ -1,0 +1,6 @@
+name: Anarchy
+main: EvgeniFomin.anarchy.Anarchy
+version: 1.0
+author: EvgeniFomin
+commands:
+   rg:
